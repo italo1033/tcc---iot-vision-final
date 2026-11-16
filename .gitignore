@@ -1,0 +1,28 @@
+# credenciais locais
+.env
+.env.*
+!.env.exemplo
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# dados gerados em execucao (contem imagens de pessoas)
+aplicacao/registros/
+aplicacao/coleta_tcc/
+aplicacao/smartwatch.json
+
+# videos
+*.MOV
+*.mov
+*.mp4
+
+# PlatformIO
+firmware/.pio/
+firmware/.vscode/
+*.bin
+*.elf
+*.map
+*.log

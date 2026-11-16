@@ -1,0 +1,10 @@
+.pio/
+.vscode/
+.env
+.env.*
+!.env.example
+compile_commands.json
+*.bin
+*.elf
+*.map
+*.log

@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+# dados gerados em execucao (contem imagens de pessoas)
+registros/
+coleta_tcc/
+# endereco do relogio salvo automaticamente
+smartwatch.json
+# videos
+*.MOV
+*.mov
+*.mp4
